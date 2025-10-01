@@ -95,11 +95,13 @@ The combination of Angular's robust framework with VS Code's intelligent editor 
 ---
 ## 3. 📁 Angular Project Structure Made Simple
 [📥 Download PDF]([Angular Project Structure Made Simple]([[docs/angular-building-blocks-1.pdf](https://github.com/azizaydi23/angular-basics/blob/main/guides/The%2011%20Essential%20Building%20Blocks%20Every%20Developer%20Should%20Know.pdf)](https://github.com/azizaydi23/angular-basics/blob/main/guides/Angular%20Project%20Structure%20Made%20Simple.pdf))
-my-app/
-├── src/app/ // Your components live here
-├── src/assets/ // Images, fonts, etc.
-├── angular.json // Project settings
-├── package.json // Dependencies
+
+
+my-app/\
+├── src/app/ // Your components live here\
+├── src/assets/ // Images, fonts, etc.\
+├── angular.json // Project settings\
+├── package.json // Dependencies\
 └── node_modules/ // Installed packages
 
 That's it. Everything you need to know th eguide below include more details  
