@@ -143,3 +143,44 @@ Requirements:
 💡 **Pro tip:** Use `ng serve --open` to auto-open your browser!
 
 From zero to Angular hero in under 5 minutes.
+
+---
+
+## 5. Angular CLI = Developer Productivity on Steroids
+[📥 Download PDF]([Angular CLI = Developer Productivity on Steroids]([https://github.com/azizaydi23/angular-basics/blob/main/guides/Angular%20Setup%203%20Commands%2C%20You're%20Done.pdf](https://github.com/azizaydi23/angular-basics/blob/main/guides/CLI%20Overview%20and%20Command%20Reference.pdf))
+
+Just one command and you're coding:
+
+```bash
+npm install -g @angular/cli
+ng new my-app
+ng serve
+````
+
+That's it. Your Angular app is running on **localhost:4200** with hot reload 🔥
+
+---
+
+## 🚀 Why Angular CLI is a game-changer:
+
+✅ Zero configuration setup
+✅ Auto-generates components, services, modules
+✅ Built-in testing & linting
+✅ Production-ready builds
+✅ Live reload during development
+
+---
+
+## 🏆 My Top 5 Commands:
+
+* `ng new` → Create project
+* `ng g c component-name` → Generate component
+* `ng serve` → Dev server
+* `ng build` → Production build
+* `ng test` → Run tests
+
+---
+
+No more manual setup. No more boilerplate code. Just pure development focus.
+
+**Angular CLI: Because life's too short for manual configuration. ⚡**
