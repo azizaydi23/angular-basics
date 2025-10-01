@@ -1,12 +1,14 @@
-# 📘 Angular Learning Resources
+# 📘 Angular Basics Learning Resources
 
-Welcome to the ultimate guide collection for mastering Angular with **Visual Studio Code** and beyond.  
+Welcome to the ultimate guide collection for mastering Angular for **Beginners** and beyond.  
 Each section below contains detailed insights, and you can also **download the PDF version** for offline reading.  
 
 ---
 
 ## 1. Angular Development Made Easy with VS Code!
-[📥 Download PDF](docs/angular-development-vscode.pdf)
+[📥 Download PDF]([guides/Angular Development Made Easy with VS Code.](https://github.com/azizaydi23/angular-basics/blob/main/guides/Angular%20Development%20Made%20Easy%20with%20VS%20Code.pdf))
+
+<a href="[https://github.com/fabfabit/MyStuff_public/blob/master/files/ProjMarr_slides.pdf](https://github.com/azizaydi23/angular-basics/blob/main/guides/Angular%20Development%20Made%20Easy%20with%20VS%20Code.pdf)" class="image fit" ><img src="images/marr_pic.jpg" alt=""></a>
 
 Just dove into the comprehensive guide on Angular development with Visual Studio Code, and I'm impressed by how seamlessly these tools work together!
 
@@ -35,9 +37,8 @@ The combination of Angular's robust framework with VS Code's intelligent editor 
 ---
 
 ## 2. Mastering Angular: The 11 Essential Building Blocks Every Developer Should Know
-[📥 Download PDF](docs/angular-building-blocks-1.pdf)
 
-Just finished reviewing a comprehensive guide on Angular architecture, and I'm excited to share the core building blocks that make Angular applications so powerful and maintainable!  
+[📥 Download PDF]([The 11 Essential Building Blocks Every Developer Should Know]([docs/angular-building-blocks-1.pdf](https://github.com/azizaydi23/angular-basics/blob/main/guides/The%2011%20Essential%20Building%20Blocks%20Every%20Developer%20Should%20Know.pdf))
 
 🎯 Angular follows MVC & MVVM patterns, built on these key foundations:  
 
@@ -92,29 +93,14 @@ Just finished reviewing a comprehensive guide on Angular architecture, and I'm e
 💡 **Key Takeaway:** These building blocks work together seamlessly to create scalable, maintainable applications. Understanding how they interact is crucial for Angular mastery!  
 
 ---
-
-## 3. Mastering Angular (Duplicate Section for Reference)
-[📥 Download PDF](docs/angular-building-blocks-2.pdf)
-
-*(This section is intentionally included as provided, to maintain the exact text you shared.)*  
-
-[Same content as section 2, duplicated here.]  
-
----
-
-## 4. 📁 Angular Project Structure Made Simple
-[📥 Download PDF](docs/angular-project-structure.pdf)
-
-```
-
+## 3. 📁 Angular Project Structure Made Simple
+[📥 Download PDF]([Angular Project Structure Made Simple]([[docs/angular-building-blocks-1.pdf](https://github.com/azizaydi23/angular-basics/blob/main/guides/The%2011%20Essential%20Building%20Blocks%20Every%20Developer%20Should%20Know.pdf)](https://github.com/azizaydi23/angular-basics/blob/main/guides/Angular%20Project%20Structure%20Made%20Simple.pdf))
 my-app/
 ├── src/app/ // Your components live here
 ├── src/assets/ // Images, fonts, etc.
 ├── angular.json // Project settings
 ├── package.json // Dependencies
 └── node_modules/ // Installed packages
-
-````
 
 That's it. Everything you need to know th eguide below include more details  
 
@@ -126,8 +112,8 @@ Clean. Organized. Ready to scale.
 
 ---
 
-## 5. Angular Setup: 3 Commands, You're Done
-[📥 Download PDF](docs/angular-setup.pdf)
+## 4. Angular Setup: 3 Commands, You're Done
+[📥 Download PDF]([Angular Project Structure Made Simple](https://github.com/azizaydi23/angular-basics/blob/main/guides/Angular%20Setup%203%20Commands%2C%20You're%20Done.pdf)
 
 1. Install Node.js (from nodejs.org)  
 ```bash
