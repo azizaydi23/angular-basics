@@ -1,4 +1,4 @@
-# 📘 Angular Basics Learning Resources
+# 📘 Angular Basics Learning Resources for Beginners
 
 Welcome to the ultimate guide collection for mastering Angular for **Beginners** and beyond.  
 Each section below contains detailed insights, and you can also **download the PDF version** for offline reading.  
