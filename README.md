@@ -8,7 +8,7 @@ Each section below contains detailed insights, and you can also **download the P
 ## 1. Angular Development Made Easy with VS Code!
 [📥 Download PDF]([guides/Angular Development Made Easy with VS Code.](https://github.com/azizaydi23/angular-basics/blob/main/guides/Angular%20Development%20Made%20Easy%20with%20VS%20Code.pdf))
 
-<a href="[https://github.com/fabfabit/MyStuff_public/blob/master/files/ProjMarr_slides.pdf](https://github.com/azizaydi23/angular-basics/blob/main/guides/Angular%20Development%20Made%20Easy%20with%20VS%20Code.pdf)" class="image fit" ><img src="images/marr_pic.jpg" alt=""></a>
+![](https://github.com/azizaydi23/angular-basics/blob/2e18c6612b0d667a58b668f7fd52407bbf83d980/images/Green%20and%20Black%20Modern%20We're%20Hiring%20LinkedIn%20Post%20(18).gif)  
 
 Just dove into the comprehensive guide on Angular development with Visual Studio Code, and I'm impressed by how seamlessly these tools work together!
 
@@ -39,6 +39,8 @@ The combination of Angular's robust framework with VS Code's intelligent editor 
 ## 2. Mastering Angular: The 11 Essential Building Blocks Every Developer Should Know
 
 [📥 Download PDF]([The 11 Essential Building Blocks Every Developer Should Know]([docs/angular-building-blocks-1.pdf](https://github.com/azizaydi23/angular-basics/blob/main/guides/The%2011%20Essential%20Building%20Blocks%20Every%20Developer%20Should%20Know.pdf))
+
+![](https://github.com/azizaydi23/angular-basics/blob/2e18c6612b0d667a58b668f7fd52407bbf83d980/images/Green%20and%20Black%20Modern%20We're%20Hiring%20LinkedIn%20Post%20(19).gif)  
 
 🎯 Angular follows MVC & MVVM patterns, built on these key foundations:  
 
@@ -96,6 +98,7 @@ The combination of Angular's robust framework with VS Code's intelligent editor 
 ## 3. 📁 Angular Project Structure Made Simple
 [📥 Download PDF]([Angular Project Structure Made Simple]([[docs/angular-building-blocks-1.pdf](https://github.com/azizaydi23/angular-basics/blob/main/guides/The%2011%20Essential%20Building%20Blocks%20Every%20Developer%20Should%20Know.pdf)](https://github.com/azizaydi23/angular-basics/blob/main/guides/Angular%20Project%20Structure%20Made%20Simple.pdf))
 
+![](https://github.com/azizaydi23/angular-basics/blob/2e18c6612b0d667a58b668f7fd52407bbf83d980/images/Green%20and%20Black%20Modern%20We're%20Hiring%20LinkedIn%20Post%20(20).gif)  
 
 my-app/\
 ├── src/app/ // Your components live here\
@@ -116,6 +119,8 @@ Clean. Organized. Ready to scale.
 
 ## 4. Angular Setup: 3 Commands, You're Done
 [📥 Download PDF]([Angular Project Structure Made Simple](https://github.com/azizaydi23/angular-basics/blob/main/guides/Angular%20Setup%203%20Commands%2C%20You're%20Done.pdf)
+
+![](https://github.com/azizaydi23/angular-basics/blob/2e18c6612b0d667a58b668f7fd52407bbf83d980/images/Green%20and%20Black%20Modern%20We're%20Hiring%20LinkedIn%20Post%20(21).gif)  
 
 1. Install Node.js (from nodejs.org)  
 ```bash
@@ -150,6 +155,8 @@ From zero to Angular hero in under 5 minutes.
 
 ## 5. Angular CLI = Developer Productivity on Steroids
 [📥 Download PDF]([Angular CLI = Developer Productivity on Steroids]([https://github.com/azizaydi23/angular-basics/blob/main/guides/Angular%20Setup%203%20Commands%2C%20You're%20Done.pdf](https://github.com/azizaydi23/angular-basics/blob/main/guides/CLI%20Overview%20and%20Command%20Reference.pdf))
+
+![](https://github.com/azizaydi23/angular-basics/blob/2e18c6612b0d667a58b668f7fd52407bbf83d980/images/Green%20and%20Black%20Modern%20We're%20Hiring%20LinkedIn%20Post%20(22).gif)  
 
 Just one command and you're coding:
 
