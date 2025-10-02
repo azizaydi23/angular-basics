@@ -152,7 +152,7 @@ Requirements:
 From zero to Angular hero in under 5 minutes.
 
 ---
-
+# 📝 Simplified Guide: Angular Content Projection
 ## 5. Angular CLI = Developer Productivity on Steroids
 [📥 Download PDF]([Angular CLI = Developer Productivity on Steroids]([https://github.com/azizaydi23/angular-basics/blob/main/guides/Angular%20Setup%203%20Commands%2C%20You're%20Done.pdf](https://github.com/azizaydi23/angular-basics/blob/main/guides/CLI%20Overview%20and%20Command%20Reference.pdf))
 
@@ -193,3 +193,10 @@ That's it. Your Angular app is running on **localhost:4200** with hot reload �
 No more manual setup. No more boilerplate code. Just pure development focus.
 
 **Angular CLI: Because life's too short for manual configuration. ⚡**
+
+---
+## 6. Simplified Guide: Angular Content Projection
+[📥 Download PDF]([Simplified Guide: Angular Content Projection]([https://github.com/azizaydi23/angular-basics/blob/main/guides/Angular%20Content%20projection.pdf))
+
+![](https://github.com/azizaydi23/angular-basics/blob/233295ea274a25894c8ead38f4db1387b9477229/images/Green%20and%20Black%20Modern%20We're%20Hiring%20LinkedIn%20Post%20(24).gif)  
+
