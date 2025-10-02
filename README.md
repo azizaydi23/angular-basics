@@ -200,3 +200,14 @@ No more manual setup. No more boilerplate code. Just pure development focus.
 
 ![](https://github.com/azizaydi23/angular-basics/blob/233295ea274a25894c8ead38f4db1387b9477229/images/Green%20and%20Black%20Modern%20We're%20Hiring%20LinkedIn%20Post%20(24).gif)  
 
+---
+## 7. Angular Developer roadmap
+[📥 Download PDF](https://github.com/azizaydi23/angular-basics/blob/eaaad6ae30196f47bb1d7f3b81396a4a688d2f1e/guides/angular%20roadmap.pdf)
+
+![](https://github.com/azizaydi23/angular-basics/blob/b9c8deda095044a06b56a3cd25672c71a1143880/images/angular%20roadmap_page-0001.jpg)  
+
+---
+## 8. MASTER Angular in 90 Minutes with This Crash Course by Mohamed Ahsan
+[WATCH IT](https://www.youtube.com/watch?v=oUmVFHlwZsI)
+
+![](https://img.youtube.com/vi/oUmVFHlwZsI/maxresdefault.jpg)  
