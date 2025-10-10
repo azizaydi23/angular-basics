@@ -211,3 +211,17 @@ No more manual setup. No more boilerplate code. Just pure development focus.
 [WATCH IT](https://www.youtube.com/watch?v=oUmVFHlwZsI)
 
 ![](https://img.youtube.com/vi/oUmVFHlwZsI/maxresdefault.jpg)  
+
+---
+## 9. Angular AI tutor
+🔥 That's one of the coolest applications of MCP in dev education I've seen lately - an AI tutor via the Gemini CLI
+
+It targets Angular developers, but you could apply the same approach to any technology.
+
+‣ Create a new project
+‣ Specify your experience level
+‣ Start learning!
+
+
+https://github.com/user-attachments/assets/6face06e-0fbc-4a3b-a7db-ed1379898363
+
