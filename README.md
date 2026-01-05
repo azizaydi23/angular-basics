@@ -5,7 +5,7 @@ Each section below contains detailed insights, and you can also **download the P
 
 ---
 
-## 1. Angular Development Made Easy with VS Code!
+## 1. Angular Development Made Easy with VS Code!.
 [📥 Download PDF]([guides/Angular Development Made Easy with VS Code.](https://github.com/azizaydi23/angular-basics/blob/main/guides/Angular%20Development%20Made%20Easy%20with%20VS%20Code.pdf))
 
 ![](https://github.com/azizaydi23/angular-basics/blob/2e18c6612b0d667a58b668f7fd52407bbf83d980/images/Green%20and%20Black%20Modern%20We're%20Hiring%20LinkedIn%20Post%20(18).gif)  
